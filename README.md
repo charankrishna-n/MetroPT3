@@ -7,7 +7,6 @@ Deep Learning-Based Early Failure Detection for Metro Train Air Production Units
 
 
 
-
 ## Project Structure
 
 ```
